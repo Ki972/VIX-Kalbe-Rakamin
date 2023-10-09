@@ -14,3 +14,18 @@ Membuat model Regression dan Clustering
 ■ Tableau
 ■ Dbeaver
 ■ PostgreSQL
+## Case Study
+1. Melakukan data ingestion ke dalam dbeaver.
+2. Melakukan exploratory data analysis di dbeaver:
+   - Rata-rata umur customer jika dilihat dari marital statusnya.
+   - Rata-rata umur customer jika dilihat dari gendernya.
+   - Menentukan nama store dengan total quantity terbanyak.
+   - Mentukan nama produk terlaris dengan total amount terbanyak
+3. Melakukan data ingestion ke dalam tableau public.
+4. Membuat dashboard di tableau:
+   - Jumlah qty dari bulan ke bulan
+   - Jumlah total amount dari hari ke hari
+   - Jumlah penjualan (qty) by product
+   - Jumlah penjualan (total amount) by store name
+5. Membuat model machine learning regression (Time Series) dengan ARIMA.
+6. Membuat model machine learning clustering (K-Means).
