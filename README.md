@@ -22,6 +22,7 @@ Membuat model Regression dan Clustering
    - Rata-rata umur customer jika dilihat dari gendernya.
    - Menentukan nama store dengan total quantity terbanyak.
    - Mentukan nama produk terlaris dengan total amount terbanyak <br>
+   
 **3. Melakukan data ingestion ke dalam tableau public.** <br>
 
 **4. Membuat dashboard di tableau:**
@@ -29,6 +30,7 @@ Membuat model Regression dan Clustering
    - Jumlah total amount dari hari ke hari
    - Jumlah penjualan (qty) by product
    - Jumlah penjualan (total amount) by store name <br>
+   
 **5. Membuat model machine learning regression (Time Series) dengan ARIMA.**
      
 **6. Membuat model machine learning clustering (K-Means).**
